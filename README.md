@@ -1,1 +1,1 @@
-# imagedetention
+# imagedetection
